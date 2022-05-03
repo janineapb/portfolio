@@ -205,7 +205,7 @@ const bigProjects = {
     {
       image: (""),
       projectName: "Projectlog",
-      projectDesc: "A Project Management Site that utilizes Firestore Database, Firebase Authentication, and Storage. Makes use of REST API where users can create, assign, and delete projects.",
+      projectDesc: "A Project Management Site that utilizes Firestore Database, Firebase Authentication, and Storage.",
       footerLink: [
         {
           name: "Visit Website",
@@ -217,7 +217,7 @@ const bigProjects = {
     {
       image: (""),
       projectName: "Financelog",
-      projectDesc: "A minimalist expense tracker application that utilizes Firestore Database and Firebase Authentication. Makes use of REST API where users can create and delete records.",
+      projectDesc: "A minimalist expense tracker application that utilizes Firestore Database and Firebase Authentication.",
       footerLink: [
         {
           name: "Visit Website",
@@ -228,7 +228,7 @@ const bigProjects = {
     {
       image: (""),
       projectName: "Taste Buddies",
-      projectDesc: "A Simple Recipe application that utilizes Firestore Database. Makes use of REST API where users can create and delete recipes.",
+      projectDesc: "A Simple Recipe application that utilizes Firestore Database.",
       footerLink: [
         {
           name: "Visit Website",
